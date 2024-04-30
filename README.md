@@ -7,7 +7,6 @@ Epilepsy can affect people of all genders, races, ethnic backgrounds and ages, a
 An electroencephalogram or an EEG is a test that assists in measuring electrical activity in the brain using small, metal discs called electrodes which are attached to the scalp. Brain cells communicate via electrical impulses through neurons. 
 
 These impulses are active all the time, even when we are sleeping. This activity shows up as wavy lines on an EEG recording. Given below is a sample EEG report which depicts brain electric impulses.
-![image](https://github.com/rsingh0616/Epilepsy-Detection/assets/65473308/1a16e6d5-7d18-439d-81a3-9dc4bcb84b6c)
 
 ## Objective
 
@@ -20,5 +19,4 @@ The Universitätsklinikum Bonn collected EEG data in 5 files, with each file con
 The dataset for this project was gathered from Kaggle, which combined and preprocessed the original dataset, therefore the dataset now consists of 500 patients and 4097 EEG datapoints. For simplicity, these 4097 datapoints were further broken into 23 chunks and we now have 178 datapoints for every 1 second.
 
 Given below are the five possible values of the category column, also called as column ’y’. Value 1 means active seizure activity, whereas 2-5 means no seizure detected.
-![image](https://github.com/rsingh0616/Epilepsy-Detection/assets/65473308/a6732bcd-67e2-4deb-9a36-80fa8c4abb73)
 
